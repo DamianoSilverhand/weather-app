@@ -6,6 +6,12 @@ app.use(express.static('public'));
 app.get('/', function (req, res) {
   res.render('index')
 })
+
+app.post('/', function (req, res) {
+  res.render('index');
+  console.log(req.body.city);
+})
+
 const bodyParser = require('body-parser');
 // ...
 // ...
