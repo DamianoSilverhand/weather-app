@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/DamianoSilverhand/weather-app#readme",
   "dependencies": {
+    "ejs": "^3.0.1",
     "express": "^4.17.1"
   }
 }
