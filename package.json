@@ -1,0 +1,25 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "weather website application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DamianoSilverhand/weather-app.git"
+  },
+  "keywords": [
+    "weather",
+    "app",
+    "node",
+    "express"
+  ],
+  "author": "Damiano Chintala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DamianoSilverhand/weather-app/issues"
+  },
+  "homepage": "https://github.com/DamianoSilverhand/weather-app#readme"
+}
